@@ -17,7 +17,7 @@
 }
 
 .sidebar {
-    cursor: url(img/icons/cursor.png), pointer;
+    cursor: url(img/icons/cursor.png), default;
     text-align: left;
     height: 100%;
     width: 0;
