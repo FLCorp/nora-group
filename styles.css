@@ -182,7 +182,7 @@ footer {
     .project img {
         width: 300px;
         height: auto;
-        border-radius: 20px;
+        border-radius: 0px;
     }
     .project a{
         color: #fff;
@@ -216,7 +216,7 @@ footer {
     .project img {
         width: 200px;
         height: auto;
-        border-radius: 20px;
+        border-radius: 0px;
     }
     .project a{
         color: #a81010;
@@ -244,7 +244,7 @@ footer {
     .project img {
         width: 200px;
         height: auto;
-        border-radius: 20px;
+        border-radius: 0px;
     }
     .project a{
         color: #a81010;
